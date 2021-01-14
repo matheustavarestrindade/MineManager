@@ -1,0 +1,5 @@
+name: MineManager
+version: 2.0
+description: MineManager Manager Versao beta
+author: Matheustt098
+main: com.matheus.servermanager.Main
